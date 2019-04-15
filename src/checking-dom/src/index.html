@@ -1,0 +1,16 @@
+<script src="carousel-component.js"></script>
+
+<div id="app"></div>
+
+<script>
+    const c = new CarouselComponent({
+        $el: document.querySelector('#app'),
+        images: [
+            '../images/IMG_3502.jpg',
+            '../images/IMG_4789.jpg',
+            '../images/IMG_5277.jpg'
+        ]
+    });
+    c.render();
+    c.startSlideshow();
+</script>

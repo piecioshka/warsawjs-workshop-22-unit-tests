@@ -1,0 +1,18 @@
+{
+    "name": "checking-dom",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "ava",
+        "test:nyan": "ava --tap | tap-nyan",
+        "test:update-snapshots": "ava --update-snapshots"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "ava": "^0.25.0",
+        "jsdom": "^11.11.0",
+        "tap-nyan": "^1.1.0"
+    }
+}

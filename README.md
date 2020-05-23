@@ -1,5 +1,7 @@
 # warsawjs-workshop-22-unit-tests
 
+⛩️ WarsawJS Workshop #22 — Unit Tests — Aplikacje wykorzystane podczas warsztatu
+
 ## Zadanie dot. testowania DOM
 
 * Karuzela powinna wyrenderować pierwszy obrazek

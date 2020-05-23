@@ -1,6 +1,6 @@
 # warsawjs-workshop-22-unit-tests
 
-⛩️ WarsawJS Workshop #22 — Unit Tests — Aplikacje wykorzystane podczas warsztatu
+⛩️ WarsawJS Workshop #22 — Unit Tests
 
 ## Zadanie dot. testowania DOM
 
